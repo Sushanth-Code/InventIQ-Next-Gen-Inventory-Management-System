@@ -122,9 +122,7 @@ npm run dev
   <img src="screenshots/inventory.png" alt="Inventory" width="400"/>
 </div>
 
-## 🤝 Contributing
 
-We welcome contributions! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📝 License
 
@@ -134,13 +132,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sushanth** - [GitHub Profile](https://github.com/Sushanth-Code)
 
-## 🙏 Acknowledgments
-
-- OpenAI for their powerful language models
-- The React and Python communities
-- All contributors and supporters
-
----
 
 <div align="center">
   <h3>🌟 Star this repository if you find it useful! 🌟</h3>
